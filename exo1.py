@@ -12,7 +12,7 @@ def menu():
     mois_en = ["January", "February", "March", "April", "May", "June",
                "July", "August", "September", "October", "November", "December"]
     
-    # Affichage du menu
+    # Affichage du menu g
     print("Choisissez la langue:")
     print("f - Français")
     print("a - Anglais")
